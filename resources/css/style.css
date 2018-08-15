@@ -7,13 +7,12 @@
   font-weight: normal;
 }
 
-.Download {
-  color: aquamarine;
+.download {
   font-size: 16px;
 
 }
 
-.personal {
+.personal_coming_soon {
   font-family: Verdana;
   font-weight: 300;
   font-size: 42px
@@ -24,9 +23,18 @@
   font-size: 21px;
   color: grey
 }
+
+.copywrite {
+  text-align: right;
+  color: grey;
+}
 /* Tag  */
 body {
   background-color: black;
   text-align: center;
   color: white;
+}
+
+a {
+  color:aquamarine;
 }
