@@ -1,0 +1,21 @@
+/*  ID   */
+.Discover {
+  color: white;
+  margin: auto;
+  font-family: Verdana;
+  font-size: 50px;
+  font-weight: normal;
+}
+
+.Download {
+  color: aquamarine;
+  font-size: 16px;
+
+}
+
+
+/* Tag  */
+body {
+  background-color: black;
+  text-align: center;
+}
